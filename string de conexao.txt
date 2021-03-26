@@ -1,0 +1,1 @@
+string de conexão mysql:  "server=localhost;userid=root;password=14012413;database=salleswebmvcappdb"
